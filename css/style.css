@@ -22,3 +22,20 @@ h2,p{
     display: block;
     margin-bottom: 20px;
 }
+
+input[type="text"], input[type="date"], textarea, select{
+    width: 100%;
+    border-radius: 10px;
+    padding: 5px;  /* sisi dalam border */
+    border: 1px dashed rgb(247, 9, 88); /* solid, dashed, dotted */
+    /* margin: 20px; sisi luar border */
+}
+
+button {
+    border-radius: 10%;
+    border: 1px solid white;
+    background-color: purple;
+    color: white;
+    padding: 5px;
+    width: 100%;
+}
