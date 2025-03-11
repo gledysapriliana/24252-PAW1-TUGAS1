@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-image: linear-gradient(gold, plum, white);
+    background-image: linear-gradient(rgba(255, 232, 103, 0.904), plum, white);
     font-family: 'Courier New', Courier, monospace;
    min-height: 1500px;
 }
