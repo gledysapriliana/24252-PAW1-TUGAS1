@@ -1,41 +1,5 @@
 body {
-    text-align: center;
     background-image: linear-gradient(rgba(255, 232, 103, 0.904), plum, white);
     font-family: 'Courier New', Courier, monospace;
-   min-height: 1500px;
-}
-
-.container img {
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 5px;
-}
-
-.container p{
-    text-align: center;
-}
-
-
-h2,p{
-    text-align: center;
-    margin: 0 auto;
-    display: block;
-    margin-bottom: 20px;
-}
-
-input[type="text"], input[type="date"], textarea, select{
-    width: 100%;
-    border-radius: 10px;
-    padding: 5px;  /* sisi dalam border */
-    border: 1px dashed rgb(247, 9, 88); /* solid, dashed, dotted */
-    /* margin: 20px; sisi luar border */
-}
-
-button {
-    border-radius: 10%;
-    border: 1px solid white;
-    background-color: purple;
-    color: white;
-    padding: 5px;
-    width: 100%;
+    min-height: 1500px;
 }
